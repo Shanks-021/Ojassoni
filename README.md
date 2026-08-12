@@ -1,13 +1,13 @@
 # 💫 About Me:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+Engineer;Problem+Solver;Backend+Developer;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=GenAI+Engineer+%40+TCS;Backend+Specialist;LLM+%2F+RAG+Expert;System+Architect" alt="Typing SVG" />
 </div>
 
 👋 Hi, I'm **Ojas**!  
-🔭 I am interested in **Problem Solving** & **System Design**  
-🌱 Currently learning **Backend Development** & **GenAI/LLM Infrastructure**  
-🚀 Working on **Full-stack Projects** and **AI Applications**  
+🔭 I am interested in **Problem Solving** & **GenAI Systems**  
+🌱 Currently learning **LLM Infrastructure** & **Advanced GenAI Architectures**  
+🚀 Working on **Full-stack GenAI Applications** and **Backend Systems**  
 📫 Reach me at: **ojassoni0221@gmail.com**
 
 ---
@@ -23,71 +23,144 @@
 ## 💻 Tech Stack:
 
 ### **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### **Backend & API Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
+![Async](https://img.shields.io/badge/Async%2FAwait-00D9FF?style=for-the-badge&logo=python&logoColor=white)
 
-### **Backend & Server**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### **GenAI & LLM Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-00D9FF?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLaMA](https://img.shields.io/badge/LLaMA-FF6B6B?style=for-the-badge&logo=meta&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00D9FF?style=for-the-badge)
+
+### **RAG & Retrieval Systems**
+![RAG](https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4A90E2?style=for-the-badge)
+![Document Processing](https://img.shields.io/badge/Document%20Processing-00D9FF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-FFD700?style=for-the-badge)
+
+### **Vector Databases**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-EC5B17?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-00A4EF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=facebook&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-00D9FF?style=for-the-badge)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A4EF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=facebook&logoColor=white)
 
-### **AI/ML & Data**
+### **AI/ML & Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **Tools & Platforms**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🎯 Featured Projects:
 
 
+
 ---
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanks-021&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanks-021&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanks-021&layout=compact&theme=radical)](https://github.com/Shanks-021)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanks-021&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</div>
+
+### Contribution Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanks-021&theme=radical&hide_border=false" alt="Contribution Graph" />
+</div>
 
 ---
 
-## 🏆 DSA:
+## 🤖 GenAI Expertise:
 
-**LeetCode Profile:**
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PRIME_OP)](https://leetcode.com/PRIME_OP/)
+### **Large Language Models (LLMs)**
+- 🔧 Model Fine-tuning & Training
+- 📝 Prompt Engineering & Optimization
+- 🎯 Few-shot & Zero-shot Learning
+- 🔗 Chain-of-Thought Reasoning
+- 🧠 Multi-step Problem Solving
+
+### **RAG (Retrieval-Augmented Generation)**
+- 📚 Document Retrieval & Ranking
+- 🔍 Semantic Search Implementation
+- 🗂️ Knowledge Base Construction
+- 🔄 Context-Aware Generation
+- ⚡ Real-time Information Integration
+
+### **Vector Embeddings & Search**
+- 🎯 Semantic Similarity Search
+- 📊 Embedding Models & Fine-tuning
+- 🔍 Approximate Nearest Neighbor Search
+- 🗃️ Vector Database Management
+- 🚀 Scalable Vector Operations
+
 
 ---
 
-## 🌱 Currently Learning:
+## 🏆 Competitive Programming & DSA:
 
-- 🤖 GenAI & LLM Infrastructure
-- 🏗️ Advanced System Design
-- 🔐 Microservices Architecture
-- ☁️ AWS & Cloud Deployment
+### LeetCode:
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/PRIME_OP/)
+
+**Profile URL:** https://leetcode.com/PRIME_OP/
+
+
+
+---
+
+
+---
+
+## 📌 My Philosophy:
+
+> "The future belongs to those who can harness the power of intelligent systems. Build with purpose, iterate with passion, deploy with precision."
+
+---
+
+## 💼 What I Can Help With:
+
+```
+✅ Backend API Development (FastAPI)
+✅ LLM Fine-tuning & Training
+✅ RAG System Design & Implementation
+✅ GenAI Application Development
+✅ System Design & Scalability
+✅ Production ML/AI Deployment
+```
 
 ---
 
@@ -95,7 +168,9 @@
   
   ### ⭐ If you find my work interesting, don't forget to star my repositories!
   
-  **Let's connect and build something amazing together! 🚀**
+  **Let's connect and build intelligent systems together! 🚀**
+  
+  ![](https://komarev.com/ghpvc/?username=Shanks-021&color=blue&style=flat-square)
   
 </div>
 
