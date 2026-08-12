@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=GenAI+Engineer+%40+TCS;Backend+Specialist;LLM+%2F+RAG+Expert;System+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+Engineer;Backend+Specialist;LLM+%2F+RAG+Expert;System+Architect" alt="Typing SVG" />
 </div>
 
 👋 Hi, I'm **Ojas**!  
